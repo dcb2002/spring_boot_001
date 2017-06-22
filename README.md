@@ -1,6 +1,6 @@
 # spring_boot 原书目录:
 
-第1 章 Spring 基础
+第1 章 Spring 基础 
 1.1 Spring 概述 
 1.2 Spring 项目快速搭建 
 1.3 Spring 基础配置 
@@ -27,16 +27,15 @@
 第5 章 Spring Boot 基础 
 第6 章 Spring Boot 核心 
 
-
 第7 章 Spring Boot 的Web 开发 
-7.1 Spring Boot 的Web 开发支持
+7.1 Spring Boot 的Web 开发支持 
 7.2 Thymeleaf 模板引擎  
 7.2.4 实战  
 7.3 Web 相关配置  
 7.4 Tomcat 配置 
 7.5 Favicon 配置  
 7.6 WebSocket 
-7.7 基于Bootstrap 和AngularJS 的现代Web 应用
+7.7 基于Bootstrap 和AngularJS 的现代Web 应用 
 
 第8 章 Spring Boot 的数据访问 
 8.1 引入Docker  
@@ -52,9 +51,9 @@
 9.1 安全控制Spring Security 
 9.2 批处理Spring Batch  
 9.3 异步消息  
-9.4 系统集成Spring Integration
+9.4 系统集成Spring Integration 
 
-第10 章 Spring Boot 开发部署与测试
+第10 章 Spring Boot 开发部署与测试 
 
 第11 章 应用监控  
 
@@ -62,4 +61,4 @@
 12.1 微服务、原生云应用 
 12.2 Spring Cloud 快速入门  
 12.3 实战   
-12.4 基于Docker 部署
+12.4 基于Docker 部署 
